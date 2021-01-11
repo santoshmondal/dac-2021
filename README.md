@@ -13,3 +13,9 @@
 - Working with String
 - Working with String Methods
 - Working with Boolean
+
+- NPM Fundamentals
+- npm init
+- npm install mysql
+- npm unistall mysql
+- npm install mysql@2.18.0
